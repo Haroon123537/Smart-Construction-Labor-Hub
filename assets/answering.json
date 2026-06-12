@@ -1,0 +1,165 @@
+[
+  {
+    "question": "Query no 1: How do I browse materials in the app?",
+    "answer": "You can browse materials easily by opening the “Material Marketplace” section from the home screen. The app will automatically load all available construction materials from ver ified suppliers. You can scroll through the list to explore items like cement, bricks, steel, tiles, and more. Each product appears with its price, rating, vendor name, and availability. You can also tap any item to view more details or add it to your cart . This makes material browsing simple, efficient, and user -friendly."
+  },
+  {
+    "question": "Query no 2: How can I filter materials by price or location?",
+    "answer": "To filter materials, open the Material Marketplace and tap the “Filter” button. You will see opt ions for adjusting price range, selecting location, or choosing material categories. After selecting your filters, the app will refresh the list to show only the relevant materials that match your criteria. This helps you find the best products within your budget or near your area. You can re -adjust or reset the filters anytime according to your needs."
+  },
+  {
+    "question": "Query no 3: How to search for cement, bricks, tiles, etc.?",
+    "answer":"You can search for any construction material using the search bar at the top of the marketplace. Simply type the material name, such as “cement,” “bricks,” “steel,” or “tiles.” The app will instantly show all available products related to your search term. You can also combine your search with filters like price, vendor ra ting, or location for more accurate results. This allows you to quickly find the exact material you need without scrolling through the full list."
+  },
+  {
+    "question": "Query no 4: What is the current cement rate in Pakistan?",
+    "answer": "Okay, got it 👍 We provide updated cement prices in Pakistan from trusted and well-known brands. The app shows an estimated price range so you can plan your construction budget easily. Prices may vary depending on city and supplier, but we always keep them market-aligned. For the latest detailed cement rates, you can also visit:\nhttps://pricenod.com/cement-price-in-pakistan/"
+  },
+  {
+    "question": " Query no 5: How do I check product details?",
+    "answer": "To view product details, simply tap on any material listed in the marketplace. You will be taken to a detailed page showing the product description, unit price, vendor rating, stock status, and delivery time. The page may also include images, material specifications, and customer reviews. This helps you fully understand the quality of the item before buying. You can also add the material to your cart directly from this page."
+  },
+  {
+    "question": "Query no 6: How do I make online payments?",
+    "answer": "To make a payment, proceed to your cart and tap “Checkout.” The app will show you a secure payment section where you can select your preferred method. Payments are processed through a protected gateway that encrypts your information. Once you confi rm your details, the system processes the payment instantly. You will receive a confirmation message along with an e -receipt. The order will be marked as successful and saved in your order history."
+  },
+  {
+    "question": "Query no 7: What payment methods are supported?",
+    "answer": "The app supports multiple digital payment methods to make the purchasing process smooth and flexible. You can pay using debit or credit cards, mobile wallets, or online banking services depending on your region. Each method is supported through a secure payment gateway that protects sensitive information. The system ensures fast processing and instant confirmation. You can also view your payment history anytime from your profile."
+  },
+  {
+    "question": "Query no 8: How do I pay using a card or wallet?",
+    "answer": "During checkout, select the “Card/Wallet” option as your payment method. Enter your card details or log in to your digital wallet if required. The system uses encrypted processing to secure your information. Tap “Confirm Payment” to com plete the transaction. Once verified, your order will be confirmed automatically. A digital receipt will be stored in your account for future reference."
+  },
+  {
+    "question": "Query no 9: What to do if payment has failed?",
+    "answer": "If your payment fails, the system will display an error message informing you of the issue. You should first check your internet connection or verify your card/wallet details. You c an retry the payment using the same method or choose another payment option. If the amount is deducted but not reflected in the app, contact customer support immediately. The system will help resolve payment issues and restore your order status."
+  },
+  {
+    "question": "Query no 10: How can I hire a labor worker?",
+    "answer": "To hire a labor worker, first select your city in the app. The system will then show available laborers from your city. You can also allow GPS access so the app can detect your current location and display laborers who are within a 5 km radius. Browse the list of laborers along with their skills, experience, ratings, and availability. When you find a suitable worker, simply click the “Hire” button next to their profile. The app will automatically save your hire request, notify you, and you can start coordinating directly through the app."
+  },
+  {
+    "question": "Query no 11: Can I directly contact with labors in case of any emergencey?",
+    "answer": "Yes you can directly contact with labors via call or SMS as labor phone number is along with their details but normally it is better approach to first know whether they are avaliable or not by simple hiring"
+  },
+  {
+    "question": "Query no 12: Can I see all details of a labor worker?",
+    "answer": "Yes! Every labor profile in the app displays complete information, including the worker's name, skills, years of experience, user ratings, and phone number. You can view all these details by tapping on a laborer's profile, which helps you compare workers and make an informed decision before hiring."
+  },
+
+  {
+    "question": "Query no 13: How does cost estimation work?",
+    "answer": "The cost estimation module allows you to manually input item -wise costs, such as material prices, labor charges, and transportation fees. Once you enter the values, the system adds everything and shows a real-time total. This gives you a clear under standing of your expected construction expenses. You can modify or update any value to re -calculate instantly. The module is designed to help users plan financially with accuracy."
+  },
+  {
+    "question": "Query no 14: How do I estimate material cost and purchase materials?",
+    "answer": "To estimate material cost, go to the Materials section where all items like cement, bricks, sand, steel, tiles, and other construction materials are listed. Enter the required quantity for each material, and the system will automatically calculate the subtotal and the overall total cost. You can then **add materials directly to your cart** and proceed to pay securely within the app. This allows you to estimate, compare, and purchase all construction materials in one place."
+  },
+  {
+    "question": "Query no 15: What is the current bajri (crush) rate in Pakistan?",
+    "answer": "Okay, got it 👍 Our app displays the latest bajri (crush) prices used for concrete and construction work. These rates are sourced from reliable suppliers and shown as a price range for better comparison. Costs may change based on location and transport distance. You can check updated market prices here:\nhttps://pricenod.com/crush-price-in-pakistan/"
+  },
+  {
+    "question": "Query no 16: Query no 2: How do I view my cart?",
+    "answer": "You can view your cart by tapping the cart icon located on the top - right corner of the app. The cart shows all the materials you added along with their quantities and total cost. You can review each item, compare prices, and continue shopping if needed. The cart provides a simple overview before you place an order. It helps you ensure everything is correct before checkout."
+  },
+  {
+    "question": "Query no 17: How do I update or remove items from the cart?",
+    "answer": "Inside the cart, you will see an option to change the quantity of each item or remove it completely. Use the “+” or “ –” buttons to adjust quantities based on your need s. If you want to remove an item, tap the delete icon next to it. The cart updates immediately and recalculates the total price. This gives you full control over your purchase before confirming the order."
+  },
+  {
+    "question": "Query no 18: How do I confirm my order?",
+    "answer": "Once your cart is ready, tap the “Checkout” button. You will be asked to confirm your delivery address, payment method, and order summary. Review everything carefully and tap “Confirm Order.” The payment will be processed, and your order will be saved in the system. You will receive an instant order confirmation and a digital receipt. The status of your order can be checked anytime from your order history."
+  },
+  {
+    "question": "Query no 19: What is the current steel rate in Pakistan?",
+    "answer": "Okay, got it 👍 We provide updated steel prices in Pakistan from trusted manufacturers used in residential and commercial construction. The app helps you compare minimum and maximum rates for better decision-making. Steel prices can change frequently due to market conditions. For the latest steel rates, visit:\nhttps://pricenod.com/steel-rate-in-pakistan/"
+  },
+  {
+    "question": "Query no 20: How do I cancel an order?",
+    "answer": "To cancel an order, go to “My Orders” and open the order you want to cancel. If the supplier has not shipped it yet, you will see a “Cancel Order” button. Tap it to con firm cancellation. The system will notify the supplier and update your order status to “Cancelled.” If payment was made, the refund process will start depending on the policy."
+  },
+  {
+    "question": "Query no 21: What are the current tile prices in Pakistan?",
+    "answer": "Okay, got it 👍 Our app shows updated tile prices in Pakistan including different types such as vitrified and wooden-finish tiles. Prices are displayed per square foot with a clear range for easy selection. These rates come from verified suppliers. You can view detailed and latest tile prices here:\nhttps://pricenod.com/tiles-price-in-pakistan/"
+  },
+
+  {
+    "question": "Query no 22: What type of prompts should I write to generate a house model?",
+    "answer": "Write clear and descriptive prompts such as “3 -bedroom modern house with glass windows and rooftop,” or “small single -room layout with attached bathroom.” Including details like color s, floors, room size, and architecture style improves accuracy. The more specific your prompt, the better the generated model. You can also mention materials like bricks, tiles, or wood to match your preferred construction style."
+  },
+  {
+    "question": "Query no 23: What file formats are supported for download (GLB, OBJ, etc.)?",
+    "answer": "he app allows you to download generated models in widely -used 3D formats like GLB, OBJ, and sometimes FBX depending on device compatibility. These for mats ensure you can open the models in external apps such as Blender, Unity, or other 3D viewers. This makes it easier to share, edit, or further develop your design. The downloadable files maintain high quality and accurate geometry."
+  },
+  {
+    "question": "Query no 24: How can I download or save the generated 3D model?",
+    "answer":"After the model is generated, you will see a “Download Model” button on the preview screen. Select your desired file format and the system will prepare the file. Once downloaded, it w ill be saved in your device storage for future use. You can also save it inside your app library for quick access. This allows you to reuse the model for construction planning or sharing with architects and contractors."
+  },
+  {
+    "question": "Query no 25: How can I Generate  the 3D model?",
+    "answer": "Very simple, When go to home page and click on card '3d- viewer' . You will see the large textbox and below is a generate button simple write what type of house you want. You can mention how many storey of house you want, houze size in square foot, number of rooms etc. Then simply click on generate button the first process is preview in which model will generate it will take maximum of 8 -10 min and after that process is refining to apply material texture in house it will take maximum of 3-5 min. Then after all this you will see model is ready. Better recommended, especially for new clients to watch this whole video so they now all about house generation process.you can watch this full guide video: [Watch House Generation Process](https://screenrec.com/share/eCXVywgWK8)"
+   },
+  {
+    "question": "Query no 26:What type of text prompt should I write to get excellent or near-perfect 3D house models?\nWhat details are necessary to include in the prompt?",
+    "answer": "To get best results for Pakistani house designs, your prompt should always clearly mention:🔑 Required details to include Pakistan style (very important),Pakistan style (very important), Pakistan style (very important),House size in square feet, Number of storeys (single, double, triple), Rooms count (bedrooms, kitchen, bathrooms, living room), Interior + exterior clarity, Staircase mention (for multi-storey houses),Keep the prompt clear, structured, and under 600 characters.,, Sample Text: Generate a modern 2-storey house in Pakistan style, 1800 sq ft, with 3 bedrooms, 1 kitchen, 2 bathrooms, and 1 living room. Show realistic exterior walls, flat roof, windows, doors, and complete interior layout. No elevators, no garden, no trees, no landscaping. Include room arrangement and staircase inside for access between floors. Text no 2: Generate a traditional single-storey house in Pakistan style, 1200 sq ft, with 2 bedrooms, 1 kitchen, 1 bathroom, and 1 living room. Show brick exterior walls, windows, doors, and interior layout only. No elevators, no garden, trees, or outside environment. Include room positions, doors, and hallways accurately. Here 's a result to watch: https://limewire.com/d/TcYWY#eD0jd1ebKH"
+  },
+  {
+    "question": "Query no 27: What to do if model generation fails?",
+    "answer": "If you see a message like 'Server busy, try again' or experience network issues, don't worry. For server busy errors, please try again after a few hours. For network issues, make sure your internet is stable and fast to avoid interruptions during model generation."
+  },
+  {
+    "question": "Query no 28: How do I see notifications in the app?",
+    "answer": "All important updates, such as payment confirmations, hiring request responses, and feedback messages, appear in the Notifications bell icon at the top of the home page. Tap the bell icon to see the dropdown, where messages are grouped under headers like 'Company' or 'Email'. Unread messages are marked with a yellow dot, and you can expand each notification to view details. You can also mark individual notifications or all messages as read directly from the dropdown."
+  },
+  {
+    "question": "سوال نمبر 1: میں ایپ میں مواد کیسے براؤز کر سکتا ہوں؟",
+    "answer": "آپ آسانی سے ہوم اسکرین سے 'میٹریل مارکیٹ پلیس' سیکشن کھول کر مواد براؤز کر سکتے ہیں۔ ایپ خودکار طور پر تصدیق شدہ سپلائرز سے تمام دستیاب تعمیراتی مواد لوڈ کرے گی۔ آپ فہرست میں سکرول کر کے سیمنٹ، اینٹیں، اسٹیل، ٹائلز اور دیگر اشیاء دیکھ سکتے ہیں۔ ہر پروڈکٹ کے ساتھ قیمت، ریٹنگ، وینڈر کا نام اور دستیابی دکھائی جائے گی۔ آپ کسی بھی آئٹم پر ٹیپ کر کے مزید تفصیلات دیکھ سکتے ہیں یا اسے اپنے کارٹ میں شامل کر سکتے ہیں۔ یہ مواد براؤزنگ کو آسان، مؤثر اور صارف دوست بناتا ہے۔"
+  },
+  {
+    "question": "سوال نمبر 2: میں مواد کو قیمت یا مقام کے لحاظ سے کیسے فلٹر کر سکتا ہوں؟",
+    "answer": "مواد فلٹر کرنے کے لیے، 'میٹریل مارکیٹ پلیس' کھولیں اور 'فلٹر' بٹن پر ٹیپ کریں۔ یہاں آپ قیمت کی حد، مقام یا مواد کی قسم منتخب کر سکتے ہیں۔ فلٹر منتخب کرنے کے بعد ایپ فہرست کو تازہ کرے گی اور صرف متعلقہ مواد دکھائے گی جو آپ کے معیار سے میل کھاتا ہو۔ آپ فلٹرز کو کبھی بھی دوبارہ ایڈجسٹ یا ری سیٹ کر سکتے ہیں۔"
+  },
+  {
+    "question": "سوال نمبر 3: میں سیمنٹ، اینٹیں، ٹائلز وغیرہ کیسے تلاش کروں؟",
+    "answer": "کسی بھی تعمیراتی مواد کو تلاش کرنے کے لیے مارکیٹ پلیس کے اوپر موجود سرچ بار میں مواد کا نام لکھیں، جیسے 'سیمنٹ', 'اینٹیں', 'اسٹیل' یا 'ٹائلز'۔ ایپ فوری طور پر متعلقہ پروڈکٹس دکھائے گی۔ آپ قیمت، وینڈر ریٹنگ یا مقام کے فلٹرز کے ساتھ تلاش کو مزید درست کر سکتے ہیں۔ اس سے آپ بغیر مکمل فہرست کو سکرول کیے بالکل مطلوبہ مواد جلدی حاصل کر سکتے ہیں۔"
+  },
+  {
+    "question": "سوال نمبر 4: پاکستان میں موجودہ سیمنٹ کی قیمت کیا ہے؟",
+    "answer": "ٹھیک ہے 👍 ہم پاکستان میں معتبر برانڈز سے تازہ سیمنٹ کی قیمتیں فراہم کرتے ہیں۔ ایپ ایک اندازاً قیمت کی رینج دکھاتی ہے تاکہ آپ اپنا بجٹ آسانی سے پلان کر سکیں۔ قیمتیں شہر اور سپلائر کے مطابق مختلف ہو سکتی ہیں۔ تازہ ترین تفصیلی سیمنٹ کی قیمتیں دیکھنے کے لیے یہاں وزٹ کریں:\nhttps://pricenod.com/cement-price-in-pakistan/"
+  },
+  {
+    "question": "سوال نمبر 5: میں پروڈکٹ کی تفصیلات کیسے چیک کروں؟",
+    "answer": "کسی بھی پروڈکٹ کی تفصیلات دیکھنے کے لیے فہرست میں موجود پروڈکٹ پر ٹیپ کریں۔ آپ کو تفصیلی صفحہ دکھائی دے گا جس میں پروڈکٹ کی وضاحت، یونٹ قیمت، وینڈر کی ریٹنگ، اسٹاک کی حالت اور ڈلیوری کا وقت شامل ہوگا۔ صفحے پر تصاویر، مواد کی وضاحت اور صارف کے ریویوز بھی شامل ہو سکتے ہیں۔ آپ اس صفحے سے پروڈکٹ کو سیدھا کارٹ میں بھی شامل کر سکتے ہیں۔"
+  },
+  {
+    "question": "سوال نمبر 6: میں آن لائن ادائیگی کیسے کروں؟",
+    "answer": "ادائیگی کرنے کے لیے اپنے کارٹ میں جائیں اور 'چیک آؤٹ' پر ٹیپ کریں۔ ایپ آپ کو محفوظ پیمنٹ سیکشن دکھائے گی جہاں آپ اپنی پسندیدہ ادائیگی کا طریقہ منتخب کر سکتے ہیں۔ ادائیگیاں انکرپٹڈ گیٹ وے کے ذریعے پروسیس ہوتی ہیں۔ جب آپ تفصیلات کی تصدیق کر لیں، تو سسٹم ادائیگی فوری طور پر مکمل کرتا ہے۔ آپ کو تصدیقی پیغام اور ای-رسید موصول ہوگی اور آپ کا آرڈر کامیابی سے محفوظ ہو جائے گا۔"
+  },
+  {
+    "question": "سوال نمبر 7: کون سے ادائیگی کے طریقے سپورٹ کیے جاتے ہیں؟",
+    "answer": "ایپ کئی ڈیجیٹل ادائیگی کے طریقے سپورٹ کرتی ہے تاکہ خریداری کا عمل آسان اور لچکدار ہو۔ آپ ڈیبٹ یا کریڈٹ کارڈ، موبائل والیٹ، یا آن لائن بینکنگ سروسز کے ذریعے ادائیگی کر سکتے ہیں۔ ہر طریقہ محفوظ گیٹ وے کے ذریعے پروسیس ہوتا ہے جو حساس معلومات کو محفوظ رکھتا ہے۔ سسٹم تیز پروسیسنگ اور فوری تصدیق فراہم کرتا ہے۔ آپ اپنے ادائیگی کے ہسٹری کو بھی اپنے پروفائل سے کسی بھی وقت دیکھ سکتے ہیں۔"
+  },
+  {
+    "question": "سوال نمبر 8: میں کارڈ یا والیٹ کے ذریعے کیسے ادائیگی کروں؟",
+    "answer": "چیک آؤٹ کے دوران 'کارڈ/والیٹ' آپشن منتخب کریں۔ اپنی کارڈ کی تفصیلات درج کریں یا اگر ضروری ہو تو اپنے ڈیجیٹل والیٹ میں لاگ ان کریں۔ سسٹم معلومات کو انکرپٹڈ طریقے سے پروسیس کرتا ہے۔ 'Confirm Payment' پر ٹیپ کریں تاکہ ٹرانزیکشن مکمل ہو جائے۔ جب تصدیق ہو جائے تو آپ کا آرڈر خودکار طور پر کنفرم ہو جائے گا اور ڈیجیٹل رسید آپ کے اکاؤنٹ میں محفوظ ہوگی۔"
+  },
+  {
+    "question": "سوال نمبر 9: اگر ادائیگی ناکام ہو جائے تو کیا کروں؟",
+    "answer": "اگر ادائیگی ناکام ہو جائے تو سسٹم ایک ایرر میسج دکھائے گا۔ سب سے پہلے اپنا انٹرنیٹ کنیکشن چیک کریں یا کارڈ/والیٹ کی تفصیلات درست کریں۔ آپ دوبارہ اسی طریقے سے ادائیگی کر سکتے ہیں یا کوئی دوسرا طریقہ منتخب کر سکتے ہیں۔ اگر رقم کٹ گئی ہو لیکن ایپ میں نظر نہ آئے تو فوراً کسٹمر سپورٹ سے رابطہ کریں۔ سسٹم ادائیگی کے مسائل حل کرنے اور آرڈر کی حالت بحال کرنے میں مدد کرے گا۔"
+  },
+  {
+    "question": "سوال نمبر 10: میں لیبر ورکر کیسے ہائر کر سکتا ہوں؟",
+    "answer": "لیبر ہائر کرنے کے لیے سب سے پہلے ایپ میں اپنا شہر منتخب کریں۔ سسٹم پھر آپ کے شہر سے دستیاب لیبرز دکھائے گا۔ آپ GPS کی اجازت بھی دے سکتے ہیں تاکہ ایپ آپ کے موجودہ مقام کے قریب 5 کلومیٹر کے دائرے میں لیبرز دکھا سکے۔ لیبرز کی مہارت، تجربہ، ریٹنگز اور دستیابی دیکھیں۔ مناسب ورکر ملنے پر 'Hire' بٹن پر ٹیپ کریں۔ ایپ خودکار طور پر آپ کی ہائر ریکویسٹ محفوظ کرے گی، اطلاع دے گی، اور آپ براہ راست رابطہ شروع کر سکتے ہیں۔"
+  },
+  {
+    "question": "سوال نمبر 11: کیا میں ایمرجنسی میں لیبرز سے براہ راست رابطہ کر سکتا ہوں؟",
+    "answer": "جی ہاں! آپ لیبرز سے کال یا SMS کے ذریعے براہ راست رابطہ کر سکتے ہیں کیونکہ ان کا فون نمبر پروفائل میں موجود ہوتا ہے۔ لیکن عام طور پر بہتر ہے کہ پہلے یہ معلوم کریں کہ وہ دستیاب ہیں یا نہیں، جس کے لیے سادہ ہائرنگ کا طریقہ اختیار کریں۔"
+  },
+  {
+    "question": "سوال نمبر 12: کیا میں لیبر ورکر کی تمام تفصیلات دیکھ سکتا ہوں؟",
+    "answer": "جی ہاں! ایپ میں ہر لیبر پروفائل مکمل معلومات دکھاتی ہے، جیسے نام، مہارتیں، تجربے کے سال، یوزر ریٹنگز اور فون نمبر۔ آپ کسی لیبر کے پروفائل پر ٹیپ کر کے یہ سب تفصیلات دیکھ سکتے ہیں، تاکہ ہائر کرنے سے پہلے موازنہ اور درست فیصلہ کر سکیں۔"
+  }
+
+]

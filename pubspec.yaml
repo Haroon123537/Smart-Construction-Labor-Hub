@@ -1,0 +1,91 @@
+name: smart_constuction_hub
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: 0.20.2
+  provider: ^6.0.5
+  file_picker: ^10.3.6
+  shared_preferences: ^2.2.2
+  geolocator: ^9.0.2
+  geocoding: ^4.0.0
+  google_maps_flutter: ^2.14.0
+  #flutter_google_places_sdk: ^0.4.3
+  animated_text_kit: ^4.2.2
+  cupertino_icons: ^1.0.8
+  #webview_flutter: ^4.13.0
+  auth_buttons: ^3.0.3
+  flutter_signin_button: ^2.0.0
+  firebase_core: ^3.10.0
+  firebase_auth: ^5.4.0
+  avatar_glow: ^3.0.1
+  flutter_inappwebview: ^6.1.5
+  highlight_text: ^1.8.0
+  google_sign_in: ^6.1.0
+  cloud_firestore: ^5.6.1
+  image_picker: ^1.0.4
+  model_viewer_plus: ^1.9.3
+  speech_to_text: ^7.3.0
+  url_launcher: ^6.2.1
+  permission_handler: ^12.0.1
+  flutter_sound: ^9.28.0
+  flutter_cube: ^0.1.1
+  http: ^1.6.0
+  pdf: ^3.11.3
+  flutter_widget_from_html: ^0.17.1
+  printing: ^5.14.2
+  path_provider: ^2.1.5
+  android_intent_plus: ^5.3.0
+  firebase_database: 11.3.7
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/answering.json
+    - assets/ggml-tiny.en.bin
+    - assets/logo.jpg
+    - assets/logo.png
+    - assets/google_logo.png
+    - assets/models/Housemodel6.glb
+    - assets/house.jpg
+    - assets/house2.jpg
+    - assets/hoiuse3.jpg
+    - assets/chatbot.jpg
+    - assets/html/viewer.html
+    - assets/City_Background.jpg
+    - assets/estimating.jpg
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/Fonts/Poppins-Regular.ttf
+        - asset: assets/Fonts/Poppins-SemiBold.ttf
+        - asset: assets/Fonts/Poppins-Bold.ttf
+
+    - family: Inter
+      fonts:
+        - asset: assets/Fonts/Inter_18pt-SemiBold.ttf
+
+    - family: Roboto
+      fonts:
+        - asset: assets/Fonts/Roboto-Bold.ttf
+
+
+
+

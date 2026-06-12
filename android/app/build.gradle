@@ -1,0 +1,48 @@
+plugins {
+    id("com.android.application")
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+    id("com.google.gms.google-services")  // Required for Firebase
+}
+
+android {
+    namespace = "com.example.smart_constuction_hub"
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = "29.0.13113456"
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
+    defaultConfig {
+        applicationId = "com.example.smart_constuction_hub"
+        minSdkVersion flutter.minSdkVersion  // Make sure this is ≥ 21
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.debug  // OK for testing
+        }
+    }
+}
+
+dependencies {
+    // Firebase BoM (manages versions automatically)
+    implementation(platform("com.google.firebase:firebase-bom:34.6.0"))
+
+    // Firebase dependencies
+    implementation 'com.google.firebase:firebase-auth'
+    implementation "com.google.firebase:firebase-analytics"
+}
+
+flutter {
+    source = "../.."
+}

@@ -1,0 +1,57 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smart-construction-hub",
+          "appId": "1:867251034015:android:1d744cc7c22a5c83d00faa",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smart-construction-hub",
+          "configurations": {
+            "android": "1:867251034015:android:1d744cc7c22a5c83d00faa",
+            "ios": "1:867251034015:ios:95829d1f0aadec51d00faa",
+            "macos": "1:867251034015:ios:95829d1f0aadec51d00faa",
+            "web": "1:867251034015:web:de9700adb6b09062d00faa",
+            "windows": "1:867251034015:web:f8557b7769ea2740d00faa"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ],
+      "source": "functions"
+    },
+    {
+      "source": "labor_hiring",
+      "codebase": "labor_hiring",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ]
+}
